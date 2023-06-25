@@ -4,8 +4,8 @@ This README file provides an overview of the Node.js code for uploading files to
 
 ## Prerequisites
 
--Node.js installed on your system
--Moralis API credentials (API key, API secret)
+- Node.js installed on your system
+- Moralis API credentials (API key, API secret)
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ This README file provides an overview of the Node.js code for uploading files to
 
 ## Additional Information
 
-- The uploadFile.js script utilizes the Moralis API's file.upload method to handle the file upload process. You can find more information about the Moralis API and its usage in the Moralis API documentation.
+- The uploadFile.js script utilizes the Moralis API's file.upload method to handle the file upload process. You can find more information about the Moralis API and its usage in the [Moralis API documentation](https://docs.moralis.io/).
 - Ensure that your Moralis API credentials are valid and properly configured in the code to establish a successful connection.
 - Feel free to explore and modify the code to fit your specific requirements. You can extend it to handle multiple files, implement error handling, or integrate it into your existing Node.js projects.
    
