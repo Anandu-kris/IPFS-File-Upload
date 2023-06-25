@@ -1,6 +1,6 @@
 # IPFS-File-Upload
 </br>
-This README file provides an overview of the Node.js code for uploading files to IPFS using the Moralis API. This code allows you to leverage the Moralis API, a powerful blockchain development platform, to upload files to IPFS, a decentralized and distributed file system.
+This project provides an overview of the Node.js code for uploading files to IPFS using the Moralis API. This code allows you to leverage the Moralis API, a powerful blockchain development platform, to upload files to IPFS, a decentralized and distributed file system.
 
 ## Prerequisites
 
